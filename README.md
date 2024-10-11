@@ -1,6 +1,5 @@
 ### SHADOW-V1 
-
-img src="images/https://www.canva.com/design/DAGTPAneXHY/FBExHVYKN9TsgLJ-x8RTHQ/view?utm_content=DAGTPAneXHY&utm_campaign=designshare&utm_medium=link&utm_source=editor.png" width="100"
+<img src="https://i.imghippo.com/files/aOAUQ1728623236.png">" width="100"
 --------
 
 <p align="center">
