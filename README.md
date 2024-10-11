@@ -3,7 +3,7 @@
 --------
 
 <p align="center">
-<a href="https://github.com/Anonymous20666"><img title="Author" src="https://i.ibb.co/mcpbQ9k/cheemspic.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Anonymous20666"><img title="Author" src="pic"></a>
 
 SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](https://github.com/Anonymous20666). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
@@ -29,7 +29,7 @@ SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](htt
 ### Fork The Repo
 
 --------
-***`Star ⭐` repository & Click [`FORK`](https://github.com/Anonymous20666/SHADOW-V1/FORK)***
+***`Star ⭐` repository & Click [`FORK`](https://github.com/Anonymous20666/SHADOW-V1/fork)***
 --------|
 
 
@@ -42,19 +42,19 @@ SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](htt
 -------------
 -------------
 
-### ***[`BOT HOSTING. NET`](BOT HOSTING LINK)***
+### ***[`BOT HOSTING. NET`](https://bot-hosting.net/?aff=1212488886408712262)***
 
 ###  ***[`REPLIT`](https://repl.it/github/Anonymous20666/SHADOW-V1)***
 
 --------
 --------
 
-### ***[`!`[`JOIN WHATSAPP GROUP THO IT'S NOT BOT GC , ITS FOR FUN SO IF YOU LIKE JOIN AND IF U LIKE DON'T........`](https://chat.whatsapp.com/BjHW7EI8xPyKSTEwcVnPSj)]***
+### ***[`!`[`JOIN WHATSAPP GROUP THO IT'S NOT BOT GC , ITS FOR FUN SO IF YOU LIKE JOIN AND IF U LIKE DON'T........`](https://chat.whatsapp.com/BjHW7El8xPyKSTEwcVnPSj)]***
 
 --------
 --------
 
-### ***[`!`[`JOIN WHATSAPP CHANNEL`](NO LINK FOR NOW)]***
+### ***[`!`[`JOIN WHATSAPP CHANNEL`](https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r)]***
 
 
 -------
