@@ -3,7 +3,7 @@
 --------
 
 <p align="center">
-<a href="https://github.com/Anonymous20666"><img title="Author" src="https://files.fm/f/uxc8vsxpnd/cheemspic.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Anonymous20666"><img title="Author" src="https://files.fm/f/uxc8vsxpnd?style=for-the-badge&logo=github"></a>
 
 SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](https://github.com/Anonymous20666). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
