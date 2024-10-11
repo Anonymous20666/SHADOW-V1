@@ -1,5 +1,5 @@
 ### SHADOW-V1 
-<img src="https://i.imghippo.com/files/aOAUQ1728623236.png">" width="100"
+<img src="https://i.imghippo.com/files/aOAUQ1728623236.png">
 --------
 
 <p align="center">
