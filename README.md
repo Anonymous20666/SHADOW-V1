@@ -1,3 +1,18 @@
+╭╮╮╱▔▔▔▔╲╭╭╮
+╰╲╲▏▂╲╱▂▕╱╱╯
+┈┈╲▏▇▏▕▇▕╱┈┈
+┈┈╱╲▔▕▍▔╱╲┈┈
+╭╱╱ ▕╋╋╋╋▏╲╲╮
+╰╯╯┈╲▂▂╱┈╰╰ S⃠H⃠A⃠D⃠O⃠W⃠ Ⓥ①.①
+
+  　▄▄▄▄██〓█●
+▂▃▄▅██████▅
+█████████████
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤ EVIL TECH BOTZ 
+
+
+
+
 ### SHADOW-V1 
 
 ![Image Alt](https://github.com/Anonymous20666/SHADOW-V1/blob/main/peakpx%20(1).png).
@@ -10,7 +25,7 @@
 
 SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](https://github.com/Anonymous20666). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SHADOW-V1}/count.svg" alt="SHADOW :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SHADOW-V1}/count.svg" alt="SHADOW-V1 :: Visitor's Count" /></p>
 
 
 --------
@@ -52,17 +67,18 @@ SHADOW-V1  is a Cool Multi-Device WhatsApp bot developed by [Anonymous20666](htt
 --------
 --------
 
-### ***[`!`[`JOIN WHATSAPP GROUP THO IT'S NOT BOT GC , ITS FOR FUN SO IF YOU LIKE JOIN AND IF U LIKE DON'T........`](https://chat.whatsapp.com/BjHW7El8xPyKSTEwcVnPSj)]***
+### ***[`!`[`CLICK HERE TO JOIN MY WHATSAPP GROUP THO IT'S NOT BOT GC , ITS FOR FUN SO IF YOU LIKE JOIN AND IF U LIKE DON'T........`](https://chat.whatsapp.com/BjHW7El8xPyKSTEwcVnPSj)]***
 
 --------
 --------
 
-### ***[`!`[`JOIN WHATSAPP CHANNEL`](https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r)]***
+### ***[`!`[`CLICK HERE TO JOIN WHATSAPP MY  CHANNEL`](https://whatsapp.com/channel/0029Vafy50bB4hdZV9YAAn2r)]***
 
 
 -------
-
+### ***[`!`[`CLICK  HERE TO FOLLOW ME ON TIKTOK `](https://www.tiktok.com/@animexanonymous1)]***
 --------
+### ***[`!`[`CLICK HERE TO SUBSCRIBE TO MY YOUTUBE CHANNEL `](https://youtube.com/@anonymousking-pb7gg?si=MoUeamOVy24GFY9f
 
 
 ### `COMMANDS FOR TERMUX/UBUNTU`
@@ -92,4 +108,5 @@ npm start
 - Don't misuse the bot , don't allow anyone to use ur bot command anyhow keeping this warning in mind.
 
  <br><br>
+ 
  
